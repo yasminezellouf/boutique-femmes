@@ -43,7 +43,7 @@ Ce projet est une application e-commerce développée avec **React** pour une bo
 
 1. Cloner le dépôt :
    ```bash
-   git clone https://github.com/votre-utilisateur/boutique-femmes.git
+   git clone https://github.com/yasminezellouf/boutique-femmes.git
    cd boutique-femmes
 ## Project Members
 
